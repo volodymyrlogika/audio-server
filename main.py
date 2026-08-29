@@ -14,7 +14,7 @@ from datetime import datetime, timedelta
 
 from models import Track, TrackRead, Artist, ArtistRead, User, ArtistCreate, TrackCreate
 
-SECRET_KEY = "19109197bd5e7c289b92b2b355083ea26c71dee2085ceccc19308a7291b2ea06"
+SECRET_KEY = "19109197bd5e327c289b92b2b355083ea26c71dee2085ceccc19308a7291b2ea06"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60*24
 
